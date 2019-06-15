@@ -1,15 +1,16 @@
-### Date created
-Include the date you created this project and README file.
+# Bike Sharing Analysis
 
-### Project Title
-Replace the Project Title
+This project gives answer to certain questions about bike sharing data (with the help of R).
 
-### Description
-Describe what your project is about and what it does
+# Usage
 
-### Files used
-Include the files used
+## Prerequisits 
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+You need to install R and Jupyter Notebook.
 
+## Execution
+
+Run Jupyter Notebook (`jupyter notebook`), then open the notebook `Explore_bikeshare_data.ipynb`.
+
+# Others
+This repo is created as the 3rd project of Udacity's **Programming for Data Science with R** Nano Degree. The basis of the repo is the 2nd project of the same Nano Degree.
